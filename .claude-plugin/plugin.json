@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin.json",
   "name": "kosint",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "OSINT-расследования по людям и организациям с упором на Россию: государственные реестры как ядро, браузер вместо платных скраперов, журнал источников у каждого факта и хук, отсекающий торговлю утечками.",
   "keywords": ["osint", "due-diligence", "russia", "registries", "investigation", "background-check"],
   "license": "MIT",
