@@ -1,0 +1,7 @@
+{
+  "name": "kosint",
+  "owner": { "name": "Igor Kramar" },
+  "plugins": [
+    { "name": "kosint", "source": "./", "version": "0.1.0" }
+  ]
+}
